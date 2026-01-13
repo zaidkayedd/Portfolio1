@@ -116,7 +116,7 @@ export const portfolioData = {
 
   // Footer
   footer: {
-    copyright: "© 2024 Alex Morgan. All rights reserved.",
-    madeWith: "Made with Next.js & Tailwind CSS",
+    copyright: "© 2026 Alex Morgan. All rights reserved.",
+    madeWith: "Developed by Artl Studio, LLC",
   },
 };
